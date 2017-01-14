@@ -12,7 +12,7 @@ RUN apk add --no-cache bash \
     supervisor \
     curl \
     git \
-    php5-fpm \
+    php5-fpm=5.6.29-r0 \
     php5-pdo \
     php5-pdo_mysql \
     php5-mysql \
